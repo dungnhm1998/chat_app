@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/J:/Frog/w-e-p/LapTrinhUngDungMang/DashChat/web/WEB-INF/glassfish-resources.xml</file>
+            <file>file:/J:/Frog/w-e-p/LapTrinhUngDungMang/DashChat/src/java/ltudm/da/nhom2/dashchat/entity/IDchat.java</file>
+            <file>file:/J:/Frog/w-e-p/LapTrinhUngDungMang/DashChat/src/java/ltudm/da/nhom2/dashchat/entity/Tblchat.java</file>
+            <file>file:/J:/Frog/w-e-p/LapTrinhUngDungMang/DashChat/src/java/ltudm/da/nhom2/dashchat/ejb/TblchatFacade.java</file>
+            <file>file:/J:/Frog/w-e-p/LapTrinhUngDungMang/DashChat/src/java/ltudm/da/nhom2/dashchat/api/GroupuserResource.java</file>
+            <file>file:/J:/Frog/w-e-p/LapTrinhUngDungMang/DashChat/src/java/ltudm/da/nhom2/dashchat/api/UserResource.java</file>
+            <file>file:/J:/Frog/w-e-p/LapTrinhUngDungMang/DashChat/src/java/ltudm/da/nhom2/dashchat/api/ChatResource.java</file>
+            <file>file:/J:/Frog/w-e-p/LapTrinhUngDungMang/DashChat/src/java/ltudm/da/nhom2/dashchat/api/GroupResource.java</file>
+            <file>file:/J:/Frog/w-e-p/LapTrinhUngDungMang/DashChat/src/java/ltudm/da/nhom2/dashchat/ejb/AbstractFacade.java</file>
+        </group>
+    </open-files>
+</project-private>
